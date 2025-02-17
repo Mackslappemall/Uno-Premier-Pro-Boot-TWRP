@@ -1,5 +1,5 @@
 # Uno-Premier-Pro-Boot-TWRP
-Stock Boot.img, Stock Recovery.img &amp; Custom TwrpRecovery.img 
+Stock Boot.img &amp; Custom TwrpRecovery.img 
 
 Build # Premier Pro_V1.0_06122023
 Android 13
